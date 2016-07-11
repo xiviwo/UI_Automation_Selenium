@@ -10,17 +10,16 @@ gem install selenium-webdriver
 
 ##Install Selenium IDE to Record UI Action
 Go to [Firefox Addon](https://addons.mozilla.org/en-US/firefox/addon/selenium-ide/), download and install Selenium IDE for firefox.
-![Firefox Addon](/images/ags2.png =1470×750)
-<img src="images/ags2.png" alt="Firefox Addon" width="1470" height="750">
+<img src="images/ags2.png" alt="Firefox Addon" width="735" height="375">
 
 ##Record Web UI Interaction
-Restart Firefox and launch Selenium IDE with ![Grey button](/images/ags3.png =58x54) and start to record with ![Red button](/images/ags4.png =54x52) , and you are good to record !  Just do whatever you usually do, it will record the whole UI interaction in term of UI tag involved. 
+Restart Firefox and launch Selenium IDE with <img src="images/ags3.png" alt="Grey button" width="58" height="54"> and start to record with <img src="images/ags4.png" alt="Red button" width="54" height="52"> , and you are good to record !  Just do whatever you usually do, it will record the whole UI interaction in term of UI tag involved. 
 For example:
 ![Record in progress](/images/ags1.png)
 
 ##Export Recorded Script 
 After record is done, just export the script to whatever language you like, for example as pic below:
-![Export as](/images/ags5.png =1010×770)
+<img src="images/ags5.png" alt="Export as" width="505" height="385">
 
 ##Modify Script to Suit your Situation 
 Add your information to login gmail, and your mail body, subject and the desired email address you want to send to.
