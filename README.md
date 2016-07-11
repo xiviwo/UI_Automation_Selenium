@@ -13,7 +13,7 @@ Go to [Firefox Addon](https://addons.mozilla.org/en-US/firefox/addon/selenium-id
 <img src="images/ags2.png" alt="Firefox Addon" width="735" height="375">
 
 ##Record Web UI Interaction
-Restart Firefox and launch Selenium IDE with <img src="images/ags3.png" alt="Grey button" width="58" height="54"> and start to record with <img src="images/ags4.png" alt="Red button" width="54" height="52"> , and you are good to record !  Just do whatever you usually do, it will record the whole UI interaction in term of UI tag involved. 
+Restart Firefox and launch Selenium IDE with <img src="images/ags3.png" alt="Grey button" width="29" height="27"> and start to record with <img src="images/ags4.png" alt="Red button" width="27" height="26"> , and you are good to record !  Just do whatever you usually do, it will record the whole UI interaction in term of UI tag involved. 
 For example:
 ![Record in progress](/images/ags1.png)
 
