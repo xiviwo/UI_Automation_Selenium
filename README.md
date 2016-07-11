@@ -11,6 +11,7 @@ gem install selenium-webdriver
 ##Install Selenium IDE to Record UI Action
 Go to [Firefox Addon](https://addons.mozilla.org/en-US/firefox/addon/selenium-ide/), download and install Selenium IDE for firefox.
 ![Firefox Addon](/images/ags2.png =1470×750)
+<img src="images/ags2.png" alt="Firefox Addon" width="1470" height="750">
 
 ##Record Web UI Interaction
 Restart Firefox and launch Selenium IDE with ![Grey button](/images/ags3.png =58x54) and start to record with ![Red button](/images/ags4.png =54x52) , and you are good to record !  Just do whatever you usually do, it will record the whole UI interaction in term of UI tag involved. 
